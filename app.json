@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/trgrtf4/dewrew",
+  "repository": "https://github.com/trgrtf4/dewrew",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
